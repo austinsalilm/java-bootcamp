@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83f3111e-de5a-41f9-b981-d5b0e41df44e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../01-first-tutorial/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../01-first-tutorial/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/02-first-idea-program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/src/com/company/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/src/com/company/Primitives.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/src/com/company/Sum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../02-first-idea-program/src/com/company/Temperature.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="24Yr1MO2ipFUKDLRRe1V10ZVWMV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled104" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="company" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="untitled104" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83f3111e-de5a-41f9-b981-d5b0e41df44e" name="Changes" comment="" />
+      <created>1643818144990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643818144990</updated>
+    </task>
+    <servers />
+  </component>
+</project>
